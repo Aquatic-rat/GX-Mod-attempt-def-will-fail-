@@ -26,55 +26,55 @@
             {
                 "CLICK":
                 [
-                    "sound/click.mp3"
+                    "sound/Click.wav"
                 ],
                 "FEATURE_SWITCH_OFF":
                 [
-                    "sound/feature_switch_off.mp3"
+                    "sound/purudown.wav"
                 ],
                 "FEATURE_SWITCH_ON":
                 [
-                    "sound/feature_switch_on.mp3"
+                    "sound/piporo"
                 ],
                 "HOVER":
                 [
-                    "sound/hover.mp3"
+                    "sound/pop_tutorial.wav"
                 ],
                 "HOVER_UP":
                 [
-                    "sound/hover.mp3"
+                    "sound/kuraiSelect.wav3"
                 ],
                 "IMPORTANT_CLICK":
                 [
-                    "sound/important_click.mp3"
+                    "sound/poko.wav"
                 ],
                 "LEVEL_UPGRADE":
                 [
-                    "sound/level_upgrade.mp3"
+                    "sound/Boot_Caution.wav"
                 ],
                 "LIMITER_OFF":
                 [
-                    "sound/limiter_off.mp3"
+                    "sound/kakiin.wav"
                 ],
                 "LIMITER_ON":
                 [
-                    "sound/limiter_on.mp3"
+                    "sound/kakin.wav"
                 ],
                 "SWITCH_TOGGLE":
                 [
-                    "sound/switch.mp3"
+                    "sound/jine_send_stamp.wav"
                 ],
                 "TAB_CLOSE":
                 [
-                    "sound/close_tab.mp3"
+                    "sound/window_close.wav"
                 ],
                 "TAB_INSERT":
                 [
-                    "sound/new_tab.mp3"
+                    "sound/command_execute.wav"
                 ],
                 "TAB_SLASH":
                 [
-                    "sound/tab_slash.mp3"
+                    "sound/haisin_superchat.wav"
                 ]
             },
             "keyboard_sounds":
