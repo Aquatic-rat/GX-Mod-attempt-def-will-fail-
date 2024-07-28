@@ -26,7 +26,7 @@
             {
                 "CLICK":
                 [
-                    "sound/Click.wav"
+                    "sound/kari.wav"
                 ],
                 "FEATURE_SWITCH_OFF":
                 [
@@ -85,17 +85,16 @@
                 ],
                 "TYPING_ENTER":
                 [
-                    "keyboard/enter.wav"
+                    "keyboard/BIOS_piko.wav"
                 ],
                 "TYPING_LETTER":
                 [
-                    "keyboard/letter_1.wav",
-                    "keyboard/letter_2.wav",
-                    "keyboard/letter_3.wav"
+                    "keyboard/click.wav",
+                    "keyboard/jine_send_stamp.wav",
                 ],
                 "TYPING_SPACE":
                 [
-                    "keyboard/space.wav"
+                    "keyboard/pop_tooltip.wav"
                 ]
             },
             "page_styles":
