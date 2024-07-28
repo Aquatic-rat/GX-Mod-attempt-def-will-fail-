@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "Kangel Thene",
+    "description": "This is my first and only attempt",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "Aquatic_Rat"
     },
     "icons":
     {
@@ -12,7 +12,7 @@
     "manifest_version": 3,
     "mod":
     {
-        "license": "license.txt",
+        "license": "lol imagine havign a license (i am too ignorant to care about this probably important thing)",
         "payload":
         {
             "background_music":
